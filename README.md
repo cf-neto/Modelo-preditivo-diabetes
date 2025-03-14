@@ -46,7 +46,7 @@ Após o treinamento do modelo, a acurácia de 80% foi alcançada. O modelo previ
 
 1. Clone o repositório:
 ```bash
-  git clone https://github.com/CarlosFCode/previsao-diabetes-logistica.git
+  git clone https://github.com/CarlosFCode/Modelo-preditivo-diabetes.git
 ```
 2. Instale as dependências listadas no **requirements.txt**:
 ```bash
